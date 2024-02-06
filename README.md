@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalsubham&label=Profile%20views&color=0e75b6&style=flat" alt="digitalsubham" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shubham010100" target="blank"><img src="https://img.shields.io/twitter/follow/shubham010100?logo=twitter&style=for-the-badge" alt="shubham010100" /></a> </p>
 
-- 🌱 I’m currently learning **Ethereum, React**
+- 🌱 I’m currently learning **Blockchain Technology**
 
 - 👨‍💻 All of my projects are available at [DigitalSubham.in](DigitalSubham.in)
 
