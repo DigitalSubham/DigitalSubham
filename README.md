@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A Passionate FullStack Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalsubham&label=Profile%20views&color=0e75b6&style=flat" alt="digitalsubham" /> </p>
