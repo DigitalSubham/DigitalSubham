@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/shubham010100" target="blank"><img src="https://img.shields.io/twitter/follow/shubham010100?logo=twitter&style=for-the-badge" alt="shubham010100" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Technology**
+- 🌱 I’m currently learning **React Native, AWS**
 
 - 👨‍💻 All of my projects are available at [DigitalSubham.in](DigitalSubham.in)
 
-- 💬 Ask me about **blockchain,smart contract,react**
+- 💬 Ask me about **Node, Express, React, Next**
 
 - 📫 How to reach me **shubhamkr354@gmail.com**
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubham010100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham010100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/digital-subham-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digital-subham-kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subham-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digital-subham-kumar" height="30" width="40" /></a>
 <a href="https://hashnode.com/@digitalsubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@digitalsubham" height="30" width="40" /></a>
 </p>
 
