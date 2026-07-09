@@ -1,33 +1,186 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
-<h3 align="center">A Passionate FullStack Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.technoloader.com/blog/wp-content/uploads/2020/07/Hire-a-Blockchain-Developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalsubham&label=Profile%20views&color=0e75b6&style=flat" alt="digitalsubham" /> </p>
+<h3 align="center">
+Full Stack Developer | React.js | React Native | Node.js | AI/RAG Applications
+</h3>
 
-<p align="left"> <a href="https://twitter.com/shubham010100" target="blank"><img src="https://img.shields.io/twitter/follow/shubham010100?logo=twitter&style=for-the-badge" alt="shubham010100" /></a> </p>
-
-- 🌱 I’m currently learning **React Native, AWS**
-
-- 👨‍💻 All of my projects are available at [DigitalSubham.in](DigitalSubham.in)
-
-- 💬 Ask me about **Node, Express, React, Next**
-
-- 📫 How to reach me **shubhamkr354@gmail.com**
-
-- ⚡ Also interested in: ** Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubham010100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham010100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subham-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digital-subham-kumar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@digitalsubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@digitalsubham" height="30" width="40" /></a>
+<p align="center">
+I build scalable web, mobile, backend, and AI-powered products with real-world users and business impact.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<!-- Add your banner image here after uploading it to your profile repo -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digitalsubham&show_icons=true&locale=en&layout=compact" alt="digitalsubham" /></p>
+<!-- Recommended path: ./assets/github-banner.png -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digitalsubham&show_icons=true&locale=en" alt="digitalsubham" /></p>
+<p align="center">
+  <img src="./assets/Subham.png" alt="Subham Kumar - Full Stack Developer Banner" width="100%" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digitalsubham&" alt="digitalsubham" /></p>
+<p align="center">
+  <a href="https://subhams.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-subhams.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/subham-kr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Subham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DigitalSubham" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DigitalSubham-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=digitalsubham&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🚀 Software Development Engineer - I at **Codebucket Solutions**
+* 💻 I work with **React.js, TypeScript, Next.js, React Native, Expo, Chrome Extensions, Node.js, Express.js, MySQL, PostgreSQL, AWS, and Docker**
+* 🤖 Building AI-powered products using **LLMs, RAG, AI Agents, OpenAI API, and Claude API**
+* 📱 Experienced in building **mobile apps, ERP systems, dashboards, backend APIs, and production workflows**
+* ⚙️ I enjoy solving real-world product problems across **frontend, backend, mobile, cloud, and AI**
+* 🌱 Currently improving my skills in **system design, cloud deployment, AI automation, and scalable product engineering**
+* 💬 Ask me about **React, Next.js, Node.js, Express, React Native, Expo, APIs, AI/RAG apps, and browser extensions**
+* 📫 Reach me at **[shubhamkr354@gmail.com](mailto:shubhamkr354@gmail.com)**
+* 🌐 Portfolio: **https://subhams.site/**
+
+---
+
+## 🧠 What I Do
+
+### 🔹 Frontend Engineering
+
+I build clean, scalable, and maintainable user interfaces using **React.js, Next.js, TypeScript, React Query, Redux Toolkit, Tailwind CSS, and reusable component patterns**.
+
+I have worked on complex business workflows including forms, tables, dashboards, validations, role-based UI states, API-driven screens, and production-grade ERP modules.
+
+### 🔹 Mobile App Development
+
+I build mobile applications using **React Native and Expo**, focusing on business workflows, role-based access, data entry, reporting, field operations, and user-friendly mobile experiences.
+
+### 🔹 Backend Engineering
+
+I develop backend systems using **Node.js, Express.js, REST APIs, MySQL, PostgreSQL, MongoDB, Redis, authentication, RBAC, and scalable service patterns**.
+
+### 🔹 AI & Automation
+
+I work with **LLMs, RAG, AI Agents, prompt engineering, OpenAI API, and Claude API** to build AI-powered workflows, knowledge systems, document-based intelligence, and automation tools.
+
+### 🔹 Browser Extensions
+
+I build privacy and productivity-focused browser extensions using **Chrome Extensions, Manifest V3, JavaScript, and Browser APIs**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css" />
+</p>
+
+### Mobile & Cross-Platform
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### Browser Extensions
+
+<p>
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Manifest%20V3-34A853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser%20APIs-FFCA28?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,redis" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,githubactions,vscode" />
+</p>
+
+### AI / GenAI
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge" />
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### Codebucket Solutions Pvt. Ltd.
+
+**Software Development Engineer - I**
+
+* Delivered production workflows across **ERP, mobile apps, backend systems, real-time features, and AI-powered products**
+* Engineered complex **React.js and TypeScript workflows** for a **200+ module ERP system**
+* Built reusable frontend components, financial forms, document locking flows, security checks, and standardized input handling
+* Worked on the **COMFED/Sudha React Native application** used by **50K+ users**
+* Developed backend services handling **10K+ daily API requests**
+* Built real-time and asynchronous workflows using **REST APIs, Socket.IO, Redis, SQS, workers, clusters, and cron jobs**
+
+### Walsis eConnect India Pvt. Ltd.
+
+**Software Developer**
+
+* Built and scaled student dashboard features for **Sarthaks.com**
+* Improved UI performance, admin workflows, schema-based data handling, SSR, and SEO performance
+* Resolved critical production issues and contributed to engagement-focused features
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DigitalSubham&show_icons=true&theme=tokyonight&hide_border=true" alt="Subham Kumar GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DigitalSubham&theme=tokyonight&hide_border=true" alt="Subham Kumar GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalSubham&layout=compact&theme=tokyonight&hide_border=true" alt="Subham Kumar Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://subhams.site/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-subhams.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/subham-kr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Subham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DigitalSubham" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-DigitalSubham-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/shubham010100" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-shubham010100-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building useful products. Solving real problems. Learning every day.</b>
+</p>
