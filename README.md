@@ -17,8 +17,8 @@ I build scalable web, mobile, backend, and AI-powered products with real-world u
 </p>
 
 <p align="center">
-  <a href="https://subhams.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-subhams.site-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://subhams.online/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-subhams.online-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/subham-kr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Subham%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
